@@ -1,0 +1,6 @@
+@StudentPresentionLayer_HostAddress = http://localhost:5291
+
+GET {{StudentPresentionLayer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
