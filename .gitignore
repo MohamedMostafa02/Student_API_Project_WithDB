@@ -47,7 +47,7 @@ _Migrations/
 Generated\ Files/
 
 # Backup & restore files
-*.bak
+
 *.BLOB
 *.bak2
 
